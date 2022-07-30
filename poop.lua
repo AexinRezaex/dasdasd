@@ -1,5 +1,3 @@
---> Script by Ethanlovir
-
 local function shuffle(str)
 	local t = {}
 	for i = 1, #str do
